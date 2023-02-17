@@ -1,13 +1,12 @@
-body {
-	/* background: url('../assets/img/effect-artifacts.webp'), url('../assets/img/effect-static.webp'), url('../assets/img/rainbow-static.webp');
-	background-size: cover;
-	background-blend-mode: luminosity;
-	#007cb9
- */
-}
+/* #007cb9 */
+/* &#128193; */
 
 .green {
 	color: #66FF00;
+}
+
+.yellow {
+	color: #FAED26;
 }
 
 .wrapper {
