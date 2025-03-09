@@ -163,10 +163,15 @@ code {
     a {
         color:$text-primary-color;
     }
-    text-align: center;
+
+    text-align: right;
     font-size: small;
     margin-top: 2em;
     margin-bottom: 1em;
+    border-top-width: 1px;
+    border-top-style: dashed;
+    border-top-color: rgba(219, 219, 219, 0.9);
+    padding-top: 10px;
 }
 
 // Mobile

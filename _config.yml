@@ -7,7 +7,7 @@ baseurl: ""
 
 footer_only_homepage: true
 footer_url: "https://www.linkedin.com/in/srikanthbolla/"
-footer_text: "LinkedIn"
+footer_text: "--> LinkedIn"
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
