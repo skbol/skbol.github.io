@@ -5,6 +5,34 @@
 
 $accent: #FF0F00;
 
+$background-color: #000000;
+$text-primary-color: #ffffff;
+$text-secondary-color: #05ca05;
+
+$selection-background: rgba(219, 219, 219, 0.99);
+$selection-text: #000;
+
+$code-color-1: #aaaaaa;
+$code-color-2: #ffffcc;
+$code-color-3: #F00000;
+$code-color-4: #F0A0A0;
+$code-color-5: #b38aff;
+$code-color-6: #5ba711;
+$code-color-7: #e4e477;
+$code-color-8: #000080;
+$code-color-9: #05ca05;
+$code-color-10: #888888;
+$code-color-11: #555555;
+$code-color-12: #800080;
+$code-color-13: #00d4d4;
+$code-color-14: #00c1c1;
+$code-color-15: #ed9d13;
+$code-color-16: #1e90ff;
+$code-color-17: #800000;
+$code-color-18: #bbbbbb;
+
+$border: dashed 1px rgba(219, 219, 219, 0.9);
+
 $max-width: 740px;
 $med-width: 600px;
 $small-width: 480px;
@@ -15,7 +43,8 @@ body {
     margin: 0;
     font-family: "Source Code Pro", monospace;
     font-size: 12.5px;
-    background-color: #FFFFDD;
+    background-color: $background-color;
+    color: $text-primary-color;
     min-height: 100%;
 }
 a {
@@ -65,7 +94,7 @@ code {
     padding: 30px 0 20px 0;
     .site-title{
         font-size: 32px;
-        color: #272727;
+        color: $text-secondary-color;
         display: inline-block;
     }
 }
@@ -76,7 +105,7 @@ code {
     margin-bottom:1em;
     .title{
         max-width: 500px;
-        color: #272727;
+        color: $text-primary-color;
         display: inline-block;
         font-size: 30px;
     }
