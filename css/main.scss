@@ -85,6 +85,14 @@ code {
 // Navbar
 
 .navbar {
+    margin: 30px 0 20px 0;
+    border-top-width: 1px;
+    border-top-style: dashed;
+    border-top-color: rgba(219, 219, 219, 0.9);
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: rgba(219, 219, 219, 0.9);
+    
     ul {
         display: inline-block;
         margin: 0;
@@ -96,13 +104,18 @@ code {
         margin: 0 5px 0 10px;
     }
 
-    padding: 30px 0 20px 0;
+    // padding: 30px 0 20px 0;
     .site-title{
         font-size: 32px;
         color: $text-secondary-color;
         display: inline-block;
     }
 }
+
+.navbar-container{
+    margin: 5px 0;
+}
+
 
 // index
 .post-card{
