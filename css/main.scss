@@ -1,13 +1,12 @@
----
-
----
 // Customization Variables
 
-$accent: #FF0F00;
-
 $background-color: #000000;
+
 $text-primary-color: #ffffff;
 $text-secondary-color: #05ca05;
+
+$link-primary-color: #ffffff;
+$link-secondary-color:#FF0F00;
 
 $selection-background: rgba(219, 219, 219, 0.99);
 $selection-text: #000;
@@ -52,7 +51,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: $accent;
+    color: $link-primary-color;
 }
 a:hover {
     text-decoration: underline;
