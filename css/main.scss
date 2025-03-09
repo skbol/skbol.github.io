@@ -6,7 +6,8 @@
 $background-color: #000000;
 
 $text-primary-color: #ffffff;
-$text-secondary-color: #05ca05;
+$text-secondary-color: #DBDBDB;
+$text-accent-color: #05ca05;
 
 $link-primary-color: #DBDBDB;
 $link-secondary-color:#FF0F00;
@@ -107,7 +108,7 @@ code {
     // padding: 30px 0 20px 0;
     .site-title{
         font-size: 12.5px;
-        color: $text-secondary-color;
+        color: $text-accent-color;
         display: inline-block;
     }
 }
@@ -125,16 +126,17 @@ code {
         max-width: 500px;
         color: $text-primary-color;
         display: inline-block;
-        font-size: 30px;
+        font-size: 16px;
     }
     .details{
         @extend .pull-right;
         text-align: right;
         margin-left: 20px;
-        font-size: 15px;
+        font-size: 10px;
     }
     .subtitle{
         max-width: 500px;
+        color: $text-secondary-color;
     }
 }
 
