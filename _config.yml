@@ -1,0 +1,24 @@
+title: Srikanth Bolla
+author: Srikanth Bolla
+subtitle: Code, Curiosities, and the Occasional Deep Dive
+
+url: "https://skbol.github.io"
+baseurl: ""
+
+footer_only_homepage: true
+footer_url: "https://www.linkedin.com/in/srikanthbolla/"
+footer_text: "LinkedIn"
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "/about"
+   link: "about"
+ - name: "/resume"
+   absolute-link: "https://www.linkedin.com/in/srikanthbolla/"
