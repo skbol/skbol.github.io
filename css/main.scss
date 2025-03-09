@@ -44,7 +44,7 @@ $small-width: 480px;
 
 body {
     font-family: "Source Code Pro", monospace;
-    font-size: 12.5px;
+    font-size: 10px;
     background-color: $background-color;
     color: $text-primary-color;
     margin: 0 auto;
@@ -107,7 +107,7 @@ code {
 
     // padding: 30px 0 20px 0;
     .site-title{
-        font-size: 12.5px;
+        font-size: 1.25em;
         color: $text-accent-color;
         display: inline-block;
     }
@@ -126,13 +126,13 @@ code {
         max-width: 500px;
         color: $text-primary-color;
         display: inline-block;
-        font-size: 16px;
+        font-size: 1.4em;
     }
     .details{
         @extend .pull-right;
         text-align: right;
         margin-left: 20px;
-        font-size: 10px;
+        font-size: 1em;
     }
     .subtitle{
         max-width: 500px;
