@@ -59,8 +59,8 @@ a {
 }
 a:hover {
     // text-decoration: underline;
-    background-color: $text-secondary-color;
-    color: $background-color;
+    background-color: $text-secondary-color !important;
+    color: $background-color !important;
 }
 hr {
     margin: 5px;
