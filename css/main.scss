@@ -138,6 +138,9 @@ code {
         text-align: right;
         margin-left: 20px;
         font-size: 1em;
+        a {
+            color: $text-accent-color !important;
+        }
     }
     .subtitle{
         max-width: 500px;
