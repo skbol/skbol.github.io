@@ -58,7 +58,9 @@ a {
     color: $link-primary-color;
 }
 a:hover {
-    text-decoration: underline;
+    // text-decoration: underline;
+    background-color: $text-secondary-color;
+    color: $background-color;
 }
 hr {
     margin: 5px;
