@@ -6,11 +6,11 @@ url: "https://skbol.github.io"
 baseurl: ""
 
 footer_only_homepage: true
-footer_url: "https://www.linkedin.com/in/srikanthbolla/"
-footer_text: "--> LinkedIn"
+footer_url: "https://github.com/skbol/"
+footer_text: "Hosted on GitHub"
 
-profile-picture: assets/profile.png
-favicon_location: assets/favicon.ico
+profile-picture: assets/skbol/img/profile.png
+favicon_location: assets/skbol/favicon/favicon.ico
 
 permalink: /:year-:month-:day-:title/
 sass:
@@ -21,4 +21,6 @@ navbar:
  - name: "/about"
    link: "about"
  - name: "/resume"
+   absolute-link: "assets/skbol/img/profile.png"
+ - name: "/linkedIn"
    absolute-link: "https://www.linkedin.com/in/srikanthbolla/"
