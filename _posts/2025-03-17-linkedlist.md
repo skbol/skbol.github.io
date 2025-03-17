@@ -2,7 +2,7 @@
 layout: post
 title: "LinkedList"
 subtitle: DSA concepts related to Linked Lists
-tags: [DSA, LinkedList, Python]
+tags: [DSA, LinkedList]
 ---
 
 [BigOCheatSheet](https://www.bigocheatsheet.com/)
