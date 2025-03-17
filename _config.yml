@@ -24,3 +24,7 @@ navbar:
    absolute-link: "assets/skbol/img/profile.png"
  - name: "/linkedIn"
    absolute-link: "https://www.linkedin.com/in/srikanthbolla/"
+
+markdown: kramdown
+highlighter: rouge
+    input: GFM
