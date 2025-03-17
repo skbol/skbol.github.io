@@ -27,4 +27,6 @@ navbar:
 
 markdown: kramdown
 highlighter: rouge
-    input: GFM
+kramdown:
+      input: GFM
+
