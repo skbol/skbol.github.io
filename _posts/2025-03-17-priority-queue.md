@@ -8,7 +8,8 @@ tags: [DSA, PriorityQueue]
 [BigOCheatSheet](https://www.bigocheatsheet.com/)    
 [Heaps,Heapsort and PQ](https://youtu.be/pLIajuc31qk)       
 [Priority Queue introduction](https://youtu.be/wptevk0bshY?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)         
-[Youtube Video 2](https://youtu.be/EoisnPvUkOA?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+[Youtube Video 2](https://youtu.be/EoisnPvUkOA?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)     
+[Heaps visualized](https://youtu.be/XycnarZEBvQ)
 
 ## What is a Priority Queue?	
 
