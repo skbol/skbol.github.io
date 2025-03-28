@@ -21,7 +21,7 @@ navbar:
  - name: "/about"
    link: "about"
  - name: "/resume"
-   absolute-link: "assets/skbol/img/profile.png"
+   absolute-link: "https://www.linkedin.com/in/srikanthbolla/"
  - name: "/linkedIn"
    absolute-link: "https://www.linkedin.com/in/srikanthbolla/"
 
