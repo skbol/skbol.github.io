@@ -11,7 +11,7 @@ I am an <span class="color-orange">Application Developer at IBM</span> &#128187;
 I enjoy designing efficient systems⚡, but when I’m not coding, I’m usually diving into the fascinating crossover of computer science 🖥️, physics ⚙️, and philosophy 📜.
 Always exploring, always curious!.
 
-{% include linkedinBadge.html %}
+<!-- {% include linkedinBadge.html %} -->
 
 
 ### Life Advice
