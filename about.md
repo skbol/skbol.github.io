@@ -15,7 +15,7 @@ Always exploring, always curious!.
 
 
 ### GitHub
-> [https://github.com/skbol] (https://github.com/skbol)
+> [https://github.com/skbol](https://github.com/skbol)
 
 ### Contact Me
 > [https://www.linkedin.com/in/srikanthbolla/](https://www.linkedin.com/in/srikanthbolla/)
