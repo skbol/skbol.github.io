@@ -20,8 +20,8 @@ sass:
 navbar:
  - name: "/about"
    link: "about"
- - name: "/resume"
-   absolute-link: "https://www.linkedin.com/in/srikanthbolla/"
+#  - name: "/resume"
+#    absolute-link: "https://www.linkedin.com/in/srikanthbolla/"
  - name: "/linkedIn"
    absolute-link: "https://www.linkedin.com/in/srikanthbolla/"
 

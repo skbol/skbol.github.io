@@ -18,4 +18,4 @@ Always exploring, always curious!.
 > An optimist is simply a pessimist with no experience.
 
 ### Contact Me
-No thanks, I have enough problems of my own to deal with.
+[LinkedIn](https://www.linkedin.com/in/srikanthbolla/)
