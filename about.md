@@ -14,8 +14,8 @@ Always exploring, always curious!.
 <!-- {% include linkedinBadge.html %} -->
 
 
-### Life Advice
-> An optimist is simply a pessimist with no experience.
+### GitHub
+> [https://github.com/skbol] (https://github.com/skbol)
 
 ### Contact Me
-[LinkedIn](https://www.linkedin.com/in/srikanthbolla/)
+> [https://www.linkedin.com/in/srikanthbolla/](https://www.linkedin.com/in/srikanthbolla/)
