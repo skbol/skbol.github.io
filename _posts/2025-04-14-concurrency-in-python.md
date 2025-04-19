@@ -32,12 +32,7 @@ Let's go through the major concurrency-related modules provided by the standard 
 
 # GIL and Threading in Python
 
-**User:** Srikanth Bolla (skhbolla@gmail.com)  
-**Created:** 4/14/2025 23:24  
-**Updated:** 4/14/2025 23:37  
-**Exported:** 4/14/2025 23:54  
-
-## Prompt:
+## Question:
 Hey , in python the GIL doesnot let more than 1 thread at a time to access the interpreter right ? then how does the threading module work ?
 
 ## Response:
@@ -139,7 +134,7 @@ Even with the GIL, this runs **concurrently**, because `time.sleep()` releases t
         
 
 * * *
-## Prompt:
+## Question:
 how does python know when an IO operation is in progress ? and after it releases GIL , how does it know when the IO is done?
 
 ## Response:
@@ -251,7 +246,7 @@ Not directly in Python — you'd need to write a **C extension** to Python, or u
 
 Would you like to see how this works in the C code of something like `time.sleep()` or `socket.recv()`? I can show that too!
 
-## Prompt:
+## Question:
 When the OS says “hey, I/O is done!” (file read completed or socket got data), the thread wakes up.
 
 Then the C function says: “Okay, I’m back. I’ll take the GIL again now.”
